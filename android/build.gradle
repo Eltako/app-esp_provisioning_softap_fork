@@ -25,6 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
+    namespace 'com.eltako.esp_provisioning_softap_fork'
 
     compileSdkVersion 34
 
